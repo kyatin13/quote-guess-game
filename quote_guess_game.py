@@ -74,7 +74,7 @@ def main():
 			else:
 				Hints()
 
-		elif answer==a:
+		else:
 			print("you are right about that one\n\n\n")
 			b = input("would u like to play again: ")
 			
